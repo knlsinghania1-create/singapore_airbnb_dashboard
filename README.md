@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🇸🇬 Singapore Airbnb Dashboard
 
 An interactive dashboard built with Streamlit to explore Airbnb price trends, guest reviews, and listings across Singapore. Simulated calendar data adds realistic seasonal pricing. Designed for data storytelling, portfolio presentation, and market analysis.
@@ -41,3 +42,6 @@ Folder Strucutre
 ├── scripts/                  # Processing + simulation logic
 └── streamlit_env/            # Optional: Conda environment setup
 
+=======
+# singapore_airbnb_dashboard
+>>>>>>> 33893e2667711e03029d0f7de12e864a0b4c2072
