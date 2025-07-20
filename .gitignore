@@ -1,0 +1,7 @@
+# Ignore Conda env
+streamlit_env/
+
+# Ignore large temporary files
+*.csv
+*.dylib
+
